@@ -11,7 +11,6 @@ public class Text_Analyzer {
     public static void main(String[] args) throws Exception {
         String aux1 ="" , aux2=""; int i =0;
         try {
-            /// https://www.youtube.com/watch?v=BxCbxfpwC7Q
             PrintWriter p_edges = new PrintWriter("first_edges_tables.txt");
 
             p_edges.println("Source,Target,Weight");
